@@ -6,7 +6,7 @@
 # catalog-version 4.41
 Name:		texlive-lineno
 Version:	4.41
-Release:	4
+Release:	5
 Summary:	Line numbers on paragraphs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lineno
