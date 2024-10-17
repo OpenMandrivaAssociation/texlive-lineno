@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Line numbers on paragraphs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lineno
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lineno
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lineno.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lineno.doc.r%{version}.tar.xz
